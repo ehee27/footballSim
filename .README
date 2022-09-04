@@ -1,0 +1,14 @@
+// Create individual team object w - win/loss, coaching and player attributes
+
+// Store teams in array
+
+// FUNCTIONS
+// 1. determine winner based off wins + bonus for good coaching
+// 2. simulate games with random coin flip + odds based off grading categories 
+
+// Team Attribute grading
+
+// 1. Grade QB on rank, age, leadership
+// 2. Grade roster on proBowlers, injuries
+// 3. Grade Coaching staff on past succes, years with team
+// 4. Bonus points for Home field? Injuries? 
